@@ -1,0 +1,2 @@
+# Machine-Learning-with-Python-Final-Assignment
+I used customer loan data from Kaggle. Datset has 13 attributres, and 614 entries. There were some missing values. So, I used  KNNImputer for those missing values. I used standized scaler for normalize the data. I split the data %20 percent of them for test and others for train. I used K Nearest Neighbor, Decision Tree, Random Forest, Logistic Regression, Support Vector Machine. As a result the best classifier is Support Vector Machine.
